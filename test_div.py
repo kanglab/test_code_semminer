@@ -1,5 +1,5 @@
 import unittest
-import addition
+import divide
 
 class TestDivide(unittest.TestCase):
 	def test_divide_2_values(self):
